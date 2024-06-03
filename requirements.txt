@@ -1,7 +1,0 @@
-pyttsx3
-pyaudio
-SpeechRecognition
-numpy
-nltk
-tensorflow
-google-api-python-client
